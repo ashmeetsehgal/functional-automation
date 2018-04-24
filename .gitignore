@@ -1,0 +1,5 @@
+tests_output
+local.log
+node_modules
+package-lock.json
+browserstack.err

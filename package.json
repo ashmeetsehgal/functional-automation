@@ -1,0 +1,20 @@
+{
+  "name": "functional-automation",
+  "version": "0.1.0",
+  "description": "It is a complete browser (End-to-End) testing solution which aims to simplify the process of setting up Continuous Integration and writing automated tests.",
+  "scripts": {
+    "test": "npm run single && npm run parallel",
+    "single": "./node_modules/.bin/nightwatch -c conf/single.conf.js",
+    "parallel": "./node_modules/.bin/nightwatch -c conf/parallel.conf.js -e chrome,firefox,safari,ie",
+    "suite": "./node_modules/.bin/nightwatch -c conf/suite.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashmeetsehgal/functional-automation"
+  },
+  "dependencies": {
+    "browserstack-local": "^1.0.0",
+    "nightwatch": "^0.8.18"
+  },
+  "license": "MIT"
+}
