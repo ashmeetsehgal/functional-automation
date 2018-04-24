@@ -7,9 +7,10 @@ It is a complete browser (End-to-End) testing solution which aims to simplify th
 * Set your BrowserStack credentials to the environment variables `BROWSERSTACK_USERNAME` and `BROWSERSTACK_ACCESS_KEY`. If you have an account, you can obtain these credentials form https://www.browserstack.com/accounts/settings
 
 ## Running your tests
+- To run single aand parallel tests, run `npm run test`
 - To run a single test, run `npm run single`
-- To run local tests, run `npm run local`
 - To run parallel tests, run `npm run parallel`
+- To run suite tests, run `npm run suite`
 
  Understand how many parallel sessions you need by using our [Parallel Test Calculator](https://www.browserstack.com/automate/parallel-calculator?ref=github)
 
