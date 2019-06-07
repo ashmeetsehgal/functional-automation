@@ -1,6 +1,8 @@
 # functional-automation
 It is a complete browser (End-to-End) testing solution which aims to simplify the process of setting up Continuous Integration and writing automated tests.
 
+![Automation Testing with Node.js and Nightwatch](https://cdn-images-1.medium.com/max/1600/1*K_vl3SXp9doMFGCXhJwmrw.jpeg)
+
 ## Setup
 * Clone the repo
 * Install dependencies `npm install`
