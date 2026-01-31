@@ -3,6 +3,11 @@ It is a complete browser (End-to-End) testing solution which aims to simplify th
 
 ![Automation Testing with Node.js and Nightwatch](https://cdn-images-1.medium.com/max/1600/1*K_vl3SXp9doMFGCXhJwmrw.jpeg)
 
+![Automation Testing with Node.js and Nightwatch](https://ashmeetsehgal.com/content/asr.gif)
+
+## Detailed Blog
+![Blog on AshmeetSehgal.com](https://ashmeetsehgal.com/content/blogs/automation-testing-with-node-js-and-nightwatch)
+
 ## Setup
 * Clone the repo
 * Install dependencies `npm install`
